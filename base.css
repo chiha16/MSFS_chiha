@@ -30,3 +30,26 @@ body {
     border: dashed;
     margin-top: 30px;
 }
+
+
+#box4 {
+    width: 480px;
+    height: 500px;
+    background: #222222;
+    text-align: center;
+    margin: auto;
+}
+
+#pictures {
+    width: 480px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+    border: 1px solid #000;
+    box-shadow: 5px 5px;
+    background: #fff;
+}
+
+#picture1 {
+    width: 480px;
+}
